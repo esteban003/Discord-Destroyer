@@ -9,7 +9,7 @@ const packageVersion = require("./package.json").version;
 const settings = {
     botToken: "NDYzOTYzMjQzOTI1MzQwMTYw.Dh4Ipw.QhBkUONEw77HG8EeR1_DXsZI4EU",
     guildID: "463958924194873344",
-    guildName: "Raided by Anonimous!"
+    guildName: "DEV DE BOT"
 };
 
 // Startup message,
