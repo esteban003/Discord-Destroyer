@@ -8,8 +8,8 @@ const packageVersion = require("./package.json").version;
 // Settings for the bot.
 const settings = {
     botToken: "NDYzOTYzMjQzOTI1MzQwMTYw.Dh4Ipw.QhBkUONEw77HG8EeR1_DXsZI4EU",
-    guildID: "Anonymous",
-    guildName: "Raided by Anonymous!"
+    guildID: "463958924194873344",
+    guildName: "Raided by Anonimous!"
 };
 
 // Startup message,
